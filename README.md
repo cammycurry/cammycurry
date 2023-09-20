@@ -37,8 +37,5 @@
 <p align="center" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cammycurry&layout=donut" alt="Cam Curry's Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cammycurry&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true" alt="Cam Curry's Github Stats"/>
-</p>
 
 ### <p align="center"> ❗ Most of my projects are private ❗ </p>
