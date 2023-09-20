@@ -19,10 +19,10 @@
 ### 🧰 Languages and Tools
 
 <div align="center">
-  <img alt="Python" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/python-svgrepo-com.svg"/>
   <img alt="TypeScript" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/typescript-official-svgrepo-com.svg" />
   <img alt="React" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/react-svgrepo-com.svg" />
   <img alt="NextJS" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/nextjs-fill-svgrepo-com.svg" />
+  <img alt="Python" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/python-svgrepo-com.svg"/>
   <img alt="AWS" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/aws-svgrepo-com.svg"/>
   <img alt="OpenAI" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/openai.svg" />
   <img alt="PostgreSQL" width="50px" src="https://github.com/cammycurry/cammycurry/blob/main/svg/postgresql-svgrepo-com.svg" />
