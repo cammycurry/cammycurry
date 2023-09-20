@@ -34,8 +34,8 @@
 
 ---
 
-<p align="center" />
+<p align="left" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cammycurry&layout=donut" alt="Cam Curry's Top Languages" />
 </p>
 
-### <p align="center"> ❗ Most of my projects are private ❗ </p>
+### <p align="left"> ❗ Most of my projects are private ❗ </p>
