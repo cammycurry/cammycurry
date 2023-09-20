@@ -18,7 +18,7 @@
 
 ### 🧰 Languages and Tools
 
-<div align="center">
+<div align="left">
   <img alt="TypeScript" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/typescript-official-svgrepo-com.svg" />
   <img alt="React" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/react-svgrepo-com.svg" />
   <img alt="NextJS" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/nextjs-fill-svgrepo-com.svg" />
