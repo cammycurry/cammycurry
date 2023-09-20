@@ -19,14 +19,14 @@
 ### 🧰 Languages and Tools
 
 <div align="center">
-  <img alt="Python" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/programming%20languages/python-svgrepo-com.svg"/>
-  <img alt="TypeScript" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/programming%20languages/typescript-official-svgrepo-com.svg" />
-  <img alt="React" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/programming%20languages/react-svgrepo-com.svg" />
-  <img alt="NextJS" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/programming%20languages/nextjs-fill-svgrepo-com.svg" />
-  <img alt="AWS" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/cloud/aws-svgrepo-com.svg"/>
-  <img alt="OpenAI" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/cloud/openai.svg" />
-  <img alt="PostgreSQL" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/cloud/postgresql-svgrepo-com.svg" />
-  <img alt="TailwindCSS" width="50px" src="https://github.com/cammycurry/cameroncurry/blob/master/programming%20languages/tailwindcss-icon-svgrepo-com.svg" />
+  <img alt="Python" width="50px" src="https://github.com/cammycurry/cameroncurry/python-svgrepo-com.svg"/>
+  <img alt="TypeScript" width="50px" src="https://github.com/cammycurry/cameroncurry/typescript-official-svgrepo-com.svg" />
+  <img alt="React" width="50px" src="https://github.com/cammycurry/cameroncurry/react-svgrepo-com.svg" />
+  <img alt="NextJS" width="50px" src="https://github.com/cammycurry/cameroncurry/nextjs-fill-svgrepo-com.svg" />
+  <img alt="AWS" width="50px" src="https://github.com/cammycurry/cameroncurry/aws-svgrepo-com.svg"/>
+  <img alt="OpenAI" width="50px" src="https://github.com/cammycurry/cameroncurry/openai.svg" />
+  <img alt="PostgreSQL" width="50px" src="https://github.com/cammycurry/cameroncurry/postgresql-svgrepo-com.svg" />
+  <img alt="TailwindCSS" width="50px" src="https://github.com/cammycurry/cameroncurry/tailwindcss-icon-svgrepo-com.svg" />
 </div>
 
 
