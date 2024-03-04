@@ -1,12 +1,10 @@
-### Howdy 👋
+### ...
 
 # Cam Curry
 
-**`Entrepreneur`**
-**`Engineer`**
-**`Developer`**
+**`More Better`**
 
-####  I'm a 🥸 junior at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Finance
+####  I'm a JR at 🏫 Southern Methodist University studying 💻 Computer Science BS and 💼 Accounting BBA
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
@@ -38,4 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cammycurry&layout=donut" alt="Cam Curry's Top Languages" />
 </p>
 
-### <p align="left"> ❗ Most of my projects are private ❗ </p>
+### <p align="left"> ❗ My project are almost all private ❗ </p>
