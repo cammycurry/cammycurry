@@ -4,7 +4,7 @@
 
 **`More Better`**
 
-####  I'm a rising Senior at 🏫 Southern Methodist University studying 💻 Computer Science BS and 💼 Accounting BBA
+#### I'm a rising Senior at 🏫 Southern Methodist University studying 💻 Computer Science BS and 💼 Accounting BBA
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
@@ -29,7 +29,6 @@
   <img alt="TailwindCSS" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/tailwindcss-icon-svgrepo-com.svg" />
 </div>
 
-
 ---
 
 ### 📈 GitHub Stats
@@ -37,14 +36,11 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cammycurry&show_icons=true&theme=radical&count_private=true" alt="Cam Curry's GitHub stats" />
 </p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cammycurry&theme=radical" alt="Cam Curry's GitHub streak stats" />
 </p>
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cammycurry&theme=react-dark" alt="Cam Curry's GitHub activity graph" />
-</p>
-
 
 ---
 
-### <p align="left"> ❗ My project are all private ❗ </p>
+### <p align="left"> ❗ My projects are all private ❗ </p>
