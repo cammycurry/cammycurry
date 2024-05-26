@@ -35,13 +35,13 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cammycurry&show_icons=true&theme=radical" alt="Cam Curry's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cammycurry&show_icons=true&theme=radical&count_private=true" alt="Cam Curry's GitHub stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cammycurry&theme=radical" alt="Cam Curry's GitHub streak stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cammycurry&theme=react-dark" alt="Cam Curry's GitHub activity graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=cammycurry&theme=react-dark" alt="Cam Curry's GitHub activity graph" />
 </p>
 
 
