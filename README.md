@@ -31,10 +31,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-[![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammycurry&show_icons=true&theme=radical)](https://github.com/cammycurry/github-readme-stats)
-
----
-
 ### <p align="left"> ❗ My projects are all private ❗ </p>
