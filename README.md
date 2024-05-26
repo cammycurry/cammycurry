@@ -4,7 +4,7 @@
 
 **`More Better`**
 
-####  I'm a JR at 🏫 Southern Methodist University studying 💻 Computer Science BS and 💼 Accounting BBA
+####  I'm a Rising Senior at 🏫 Southern Methodist University studying 💻 Computer Science BS and 💼 Accounting BBA
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
@@ -36,4 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cammycurry&layout=donut" alt="Cam Curry's Top Languages" />
 </p>
 
-### <p align="left"> ❗ My project are almost all private ❗ </p>
+### <p align="left"> ❗ My project are all private ❗ </p>
