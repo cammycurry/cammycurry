@@ -2,8 +2,12 @@
 ## AI Strategy & Development Consultant
 
 ### Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-curry-b35b98260/)
-[![AEY.AI](https://img.shields.io/badge/AEY.AI-000000?style=for-the-badge&logo=https://aey.ai/opengraph-image.png)](https://aey.ai)
+<a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://aey.ai" target="_blank">
+  <img src="https://aey.ai/opengraph-image.png" alt="AEY.AI" height="28" style="margin-bottom: 5px;" />
+</a>
 
 ### 🎓 Education
 - Senior at Southern Methodist University
@@ -15,7 +19,6 @@ AI Apps Engineered for Your Business
 ---
 
 ## 🔧 Services
-
 - AI Strategy Development
 - System Integration Planning
 - AI-Driven Process Optimization
@@ -23,9 +26,7 @@ AI Apps Engineered for Your Business
 - Custom State-of-the-Art AI Application Development
 
 ## 🚀 How I Help Businesses
-
 As an AI Strategy & Development Consultant, I empower businesses to:
-
 - Develop comprehensive AI strategies aligned with business goals
 - Design and build cutting-edge AI-based applications
 - Optimize operations and processes with AI
@@ -34,11 +35,9 @@ As an AI Strategy & Development Consultant, I empower businesses to:
 - Gain competitive advantages in the market
 
 ## 📊 Projects
-
 > ❗ **Note:** My projects are currently private due to client confidentiality and ongoing development.
 
 ## 📫 Contact Information
-
 - 📧 Email: [cam@aey.ai](mailto:cam@aey.ai)
 - 🌐 Website: [https://aey.ai](https://aey.ai)
 - 📱 Phone: +1 (314) 743-7809
