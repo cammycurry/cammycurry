@@ -4,7 +4,7 @@
 
 **`More Better`**
 
-#### I'm a  Senior at 🏫 Southern Methodist University studying 💻 Computer Science and Business
+#### I'm a  Senior at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
