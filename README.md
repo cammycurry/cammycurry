@@ -7,7 +7,7 @@
 </a>
 <br/>
 <a href="https://aey.ai" target="_blank">
-  <img src="https://aey.ai/images/logo.png" alt="AEY.AI" width="200" style="margin-top: 5px;" />
+  <img src="https://aey.ai/images/logo-button.png" alt="AEY.AI" width="200" style="margin-top: 5px;" />
 </a>
 
 
