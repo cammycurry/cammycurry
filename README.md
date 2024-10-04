@@ -3,11 +3,11 @@
 
 ### Links
 <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="125" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
 </a>
 <br/>
 <a href="https://aey.ai" target="_blank">
-  <img src="https://aey.ai/images/logo-button.png" alt="AEY.AI" width="125" style="margin-top: 5px;" />
+  <img src="https://aey.ai/images/logo-button.png" alt="AEY.AI" width="150" style="margin-top: 5px;" />
 </a>
 
 
