@@ -1,34 +1,52 @@
 # Cam Curry
-**`More Better`**
-#### 🎓 Senior at Southern Methodist University studying 💻 Computer Science and 💼 Business
-#### 🚀 Founder of AEY
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://aey.ai" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/AEY-red?style=for-the-badge&logo=web&logoColor=white" alt="AEY Badge"/>
-  </a>
-</div>
+## AI Strategy & Development Consultant
 
-<a href="https://aey.ai" target="_blank" rel="noopener">
-  <img src="https://aey.ai/opengraph-image.png" alt="AEY Logo" width="200" style="background-color: black; padding: 10px; border-radius: 10px;"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cameron-curry-b35b98260/)
+[![AEY.AI](https://img.shields.io/badge/AEY.AI-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=)](https://aey.ai)
+![Status](https://img.shields.io/badge/Status-Selective%20Availability-yellow?style=for-the-badge)
 
-### 🔧 Skills & Services
-- Software Development
-- AI & Machine Learning Consulting
-- Business Strategy
-- Web Development
+### 🎓 Education
+- Senior at Southern Methodist University
+- Majoring in Computer Science 💻 and Business 💼
 
-### <p align="left"> ❗ My projects are all private ❗ </p>
+### 🚀 Founder of AEY
+AI Apps Engineered for Your Business
 
-### 📫 Contact Information
-- 📧 Email: cam@aey.ai
+---
+
+## 🔧 Services
+
+- AI Strategy Development
+- System Integration Planning
+- AI-Driven Process Optimization
+- Detailed CTO-level Guidance for AI Implementation
+- Custom State-of-the-Art AI Application Development
+
+## 🚀 How I Help Businesses
+
+As an AI Strategy & Development Consultant, I empower businesses to:
+
+- Develop comprehensive AI strategies aligned with business goals
+- Design and build cutting-edge AI-based applications
+- Optimize operations and processes with AI
+- Implement and integrate AI systems seamlessly
+- Solve complex problems and drive innovation through AI
+- Gain competitive advantages in the market
+
+## 📊 Projects
+
+> ❗ **Note:** My projects are currently private due to client confidentiality and ongoing development.
+
+## 📫 Contact Information
+
+- 📧 Email: [cam@aey.ai](mailto:cam@aey.ai)
 - 🌐 Website: [https://aey.ai](https://aey.ai)
 - 📱 Phone: +1 (314) 743-7809
 - 📍 Location: Dallas, Texas
 
-### 🤝 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+---
+
+<p align="center">
+  <i>Let's collaborate to bring the power of AI to your business!</i>
+</p>
