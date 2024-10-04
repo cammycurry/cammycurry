@@ -4,31 +4,24 @@
 
 **`More Better`**
 
-#### I'm a  Senior at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business
+#### 🎓 Senior at Southern Methodist University studying 💻 Computer Science and 💼 Business
 
+#### 🚀 Founder of AEY
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-curry-b35b98260/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://aey.ai" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/AEY-red?style=for-the-badge&logo=web&logoColor=white" alt="AEY Badge"/>
+  </a>
 </div>
+<img src="https://aey.ai/opengraph-image.png" alt="AEY Logo" width="200"/>
 
----
+### 🔧 Skills & Services
 
-### 🧰 Languages and Tools
+Software Development
+AI & Machine Learning Consulting
+Business Strategy
 
-<div align="left">
-  <img alt="TypeScript" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/typescript-official-svgrepo-com.svg" />
-  <img alt="React" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/react-svgrepo-com.svg" />
-  <img alt="NextJS" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/nextjs-fill-svgrepo-com.svg" />
-  <img alt="Python" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/python-svgrepo-com.svg"/>
-  <img alt="C++" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/cpp-svgrepo-com.svg"/>
-  <img alt="AWS" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/aws-svgrepo-com.svg"/>
-  <img alt="OpenAI" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/openai-svgrepo-com.svg" />
-  <img alt="PostgreSQL" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/postgresql-svgrepo-com.svg" />
-  <img alt="GIT" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/git-svgrepo-com.svg" />
-  <img alt="TailwindCSS" width="50px" style="margin-right: 10px;" src="https://github.com/cammycurry/cammycurry/blob/main/svg/tailwindcss-icon-svgrepo-com.svg" />
-</div>
-
----
 
 ### <p align="left"> ❗ My projects are all private ❗ </p>
