@@ -3,8 +3,7 @@
 ## AI Strategy & Development Consultant
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cameron-curry-b35b98260/)
-[![AEY.AI](https://img.shields.io/badge/AEY.AI-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=)](https://aey.ai)
-![Status](https://img.shields.io/badge/Status-Selective%20Availability-yellow?style=for-the-badge)
+[![AEY.AI](https://aey.ai/opengraph-image.png)](https://aey.ai)
 
 ### 🎓 Education
 - Senior at Southern Methodist University
